@@ -13,7 +13,7 @@ document.getElementById('heroi').addEventListener('submit', function (e) {
         nivel = "Bronze";
     } else if (xp >= 2001 && xp <= 5000) {
         nivel = "Prata";
-    } else if (xp >= 6001 && xp <= 7000) {
+    } else if (xp >= 5001 && xp <= 7000) {
         nivel = "Ouro";
     } else if (xp >= 7001 && xp <= 8000) {
         nivel = "Platina";
